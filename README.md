@@ -1,4 +1,4 @@
-# contentdm-iiif-api
+# temple-collections-as-data
 
 A Jupyter notebook for treating **Temple University Libraries' digital collections as data**. It queries Temple's ContentDM collections through their IIIF Presentation API, then downloads item metadata and images and lets you explore a collection inline.
 
